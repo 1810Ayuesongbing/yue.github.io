@@ -1,0 +1,81 @@
+.a {
+    text-decoration: none
+}
+
+.mallw {
+    width: 1200px;
+    margin: auto;
+}
+
+.mallLoge {
+    width: 160px;
+    color: #296ECC;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mall {
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+
+/* input 搜索 */
+
+.serach {
+    width: 600px;
+    height: 60px;
+    align-items: center;
+    flex-direction: column
+}
+
+.input {
+    width: 600px;
+    height: 30px;
+    border: #296ECC 3px solid;
+    margin-top: 8px;
+}
+
+.button {
+    width: 90px;
+    height: 33px;
+    background: #296ECC;
+    border: #296ECC;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    top: -35px;
+    right: -515px;
+}
+
+.kong {
+    width: 200px;
+}
+
+.list {
+    width: 500px;
+    position: relative;
+    top: -28px;
+    left: -50px;
+    color: rgb(145, 142, 142);
+    font-size: 12px;
+}
+
+.list>li {
+    padding: 0 12px;
+    border-right: 1px solid #CCCCCC;
+}
+
+.list>li:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.list>li:nth-child(1) {
+    padding-left: 0px;
+}
+
+.list>li:last-child {
+    border-right: none;
+}

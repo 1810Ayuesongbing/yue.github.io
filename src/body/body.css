@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+   float: left;
+   margin-left:40px;
+   border:1px solid #F5F5F5;
+  margin-top:5px;
+}
+.number{
+    margin-left:10px;
+    color: red;
+}
+.text{
+    font-size: 10px;
+    margin-left:10px;
+    float: left;
+}
+.text2{
+    font-size: 10px;
+    margin-left:20px;
+    float: left;
+    color:red;
+   
+
+}
+.shop{
+    font-size: 10px;
+    margin-left:10px;
+    color: #999999;
+    margin-top: 10px;
+}

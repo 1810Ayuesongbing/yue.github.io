@@ -1,0 +1,84 @@
+
+.brand {
+    width: 1200px;
+    margin: auto;
+    padding: 6px;
+    font-size: 13px;
+    color: #CCCCCC;
+    flex-direction: column;
+}
+
+.brand-b {
+    margin-top: 20px;
+}
+
+.brand-t {
+    width: 1200px;
+    justify-content: space-between;
+}
+
+.brands {
+    border: 2px solid rgb(184, 181, 181);
+    justify-content: space-between;
+}
+
+
+/* 手机品牌照片 */
+
+.brands-l-r img:hover {
+    border: 1px solid red;
+}
+
+.brands-l-r {
+    margin-left: 15px;
+}
+
+.brands-l-r1 {
+    border: 1px solid rgb(184, 181, 181);
+}
+
+.brands-l-r img {
+    margin-top: 8px;
+    cursor: pointer;
+}
+
+.aaaaa {
+    border-right: 1px solid rgb(184, 181, 181) !important;
+}
+
+.brands-p {
+    width: 120px;
+    height: 70px;
+    background: #F7F5F5;
+}
+
+.duoxuan {
+    background: #F7F5F5;
+    height: 15px;
+}
+
+
+/* 分类 */
+
+.cate {
+    justify-content: space-between;
+    width: 1198px;
+    height: 40px;
+    border: 1px solid #CCCCCC;
+}
+
+.cate-p {
+    width: 102px;
+    height: 36px;
+    background: #F7F5F5;
+    padding: 4px 0 0 20px;
+}
+
+.catep {
+    margin-left: 30px;
+}
+
+.catep:hover {
+    cursor: pointer;
+    color: red;
+}

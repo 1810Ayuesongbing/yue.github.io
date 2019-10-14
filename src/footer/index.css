@@ -1,0 +1,147 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+.ysb-div-001{
+    width: 1200px;
+    height: 90px;
+    background:  #f4f4f4;
+    margin:  auto;
+}
+.ysb-input-001{
+    border: 2px solid red;
+    line-height: 17px;
+    width: 500px;
+    height: 17px;
+    margin-left: 220px;
+ 
+}
+.ysb-btn-001{
+    width: 97px;
+    height: 23px;
+    line-height: 17px;
+    text-align: center;
+    overflow: hidden;
+    border: 2px solid red;
+    outline: 0;
+    color: #fff;
+    cursor: pointer;
+    background-color: #ff0036;
+}
+.ysb-div-002{
+    width: 1200px;
+    margin:10px  auto;
+}
+.ysb-p{
+    margin:  0 auto;
+    color: #333;
+    font-size: 14px;
+}
+.ysb-a{
+    text-decoration: none;
+}
+.div-li-001{
+    margin-left: 15px;
+}
+.ysb-div-003{
+    width: 1200px;
+}
+
+.flex{
+    display: flex;
+  }
+
+  .body-body{
+    width: 1190px;
+    padding-top: 22px;
+    height: 188px;
+    margin: auto;
+    border-top: 1px solid #ededed;
+}
+.body-main{
+    width: 1020px;
+    height: 190px;
+    padding-left: 170px;
+    background: url("./img/TB1bFfkNFXXXXb5XFXXXXXXXXXX-120-180.png")0 11px no-repeat;
+}
+.body-main dl{
+    width: 150px;
+    float: left;
+    padding-left: 52px;
+}
+.body-main span{
+    color: #646464;
+    font-size: 16px;
+    font-weight: 700;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+}
+.body-main a{
+    width: 120px;
+    overflow: hidden;
+    text-align: left;
+    height: 20px;
+    line-height: 20px;
+    color: #8b8b8b;
+    font-size: 12px;
+    display: block;
+    margin-left: -37px;
+}
+
+#iii{
+    width: 105px;
+    height: 105px;
+    display: block;
+    background: url("./img/T1N64NFrxcXXb.IvUG-116-112.png") -7px -7px;
+}
+
+  .body-footer{
+    border-color: #0061c4;
+    background: #0061c4;
+    text-align: left;
+    min-height: 177px;
+    width: 1349px;
+    height: 177px;
+}
+.body-footer>div{
+    width: 1349px;
+    height: 155px;
+}
+.body-footer p{
+    margin: 2px 80px;
+}
+.firstp a{
+    color: #fff;
+    margin-right: 6px;
+    font-size: 12px;
+    line-height: 25px;
+    text-decoration: none;
+}
+.body-footer a:hover{
+    text-decoration: white;
+}
+.secondp a{
+    color: #fff;
+    margin-right: 6px;
+    font-size: 12px;
+    line-height: 25px;
+    text-decoration: none;
+}
+.footerp{
+    color: #fff;
+    margin: 0 auto;
+    font-size: 12px;
+    line-height: 25px;
+}
+.footerp span{
+    display: block;
+    float: left;
+}
+#iiii{
+    display: block;
+    float: left;
+    width: 20px;
+    height: 20px;
+    background: url("./img/TB1yEqRPXXXXXXPXpXXXXXXXXXX-20-20.png");
+}

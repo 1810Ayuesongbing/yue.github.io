@@ -1,0 +1,31 @@
+.navrow {
+    width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-bottom: 3px;
+}
+
+.navrow p {
+    cursor: pointer;
+}
+
+.navrow-l {
+    justify-content: space-between;
+}
+
+.navrow-l>p {
+    margin: 0 30px;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.navrow-r {
+    font-size: 15px;
+}
+
+.blank {
+    width: 1200px;
+    border-top: 1px solid #0F64C2;
+    margin: auto;
+}

@@ -1,0 +1,33 @@
+.tianmao {
+    width: 100%;
+    background: rgb(242, 242, 242);
+    height: 27px;
+    color: rgb(172, 169, 169);
+    font-size: 12px;
+}
+
+
+/* 导航栏 */
+
+.nav {
+    width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    text-align: center;
+    line-height: 27px;
+}
+
+
+/* 导航栏左边 导航栏右边 */
+
+.tianmao-left>li,
+.tianmao-right>li {
+    list-style: none;
+    margin: 0px 10px;
+}
+
+.nav>ul>li:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
